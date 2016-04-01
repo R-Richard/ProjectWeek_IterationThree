@@ -1,0 +1,6 @@
+Resource Checkout System
+Student Account For User ID: U234, JAMIE NOEL
+
+Checked Out Resources: 
+
+String Comparison Basics: DVD Companion

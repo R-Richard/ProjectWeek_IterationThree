@@ -1,0 +1,19 @@
+Resource Checkout System
+Resource List For User ID: U456, ALEXANDER ZILL
+
+
+Unavailable Resources:
+
+Beginner's Database Handbook: DVD Companion
+C# Player's Guide On DVD
+String Comparison Basics: DVD Companion
+Lots Of Programming Stuff
+Big Book of C#
+
+
+Available Resources:
+
+Database Periodical
+SQL Monthly
+Big Magazine of Useless Facts
+Even More on C#

@@ -1,0 +1,18 @@
+DVD File:
+
+
+Title: Beginner's Database Handbook: DVD Companion
+ISBN: 0-987-12345-6
+Length: 45 minutes
+Status: AVAILABLE
+
+Title: C# Player's Guide On DVD
+ISBN: 3-123-29846-3
+Length: 90 minutes
+Status: Checked Out
+Due Date: 4/3/2016 8:57:27 PM
+
+Title: String Comparison Basics: DVD Companion
+ISBN: 1-234-74523-9
+Length: 120 minutes
+Status: AVAILABLE

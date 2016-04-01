@@ -1,0 +1,17 @@
+Books File:
+
+
+Title: Lots Of Programming Stuff
+ISBN: 9-987-9876-9
+Length: 123 pages
+Status: AVAILABLE
+
+Title: Even More on C#
+ISBN: 8-123-12345-8
+Length: 534 pages
+Status: AVAILABLE
+
+Title: Big Book of C#
+ISBN: 7-234-23456-7
+Length: 878 pages
+Status: AVAILABLE

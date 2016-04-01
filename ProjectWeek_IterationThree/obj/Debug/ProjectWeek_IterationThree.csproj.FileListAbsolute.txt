@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProjectWeek_IterationThree\ProjectWeek_IterationThree\bin\Debug\ProjectWeek_IterationThree.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProjectWeek_IterationThree\ProjectWeek_IterationThree\bin\Debug\ProjectWeek_IterationThree.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProjectWeek_IterationThree\ProjectWeek_IterationThree\bin\Debug\ProjectWeek_IterationThree.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProjectWeek_IterationThree\ProjectWeek_IterationThree\obj\Debug\ProjectWeek_IterationThree.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProjectWeek_IterationThree\ProjectWeek_IterationThree\obj\Debug\ProjectWeek_IterationThree.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProjectWeek_IterationThree\ProjectWeek_IterationThree\obj\Debug\ProjectWeek_IterationThree.csprojResolveAssemblyReference.cache

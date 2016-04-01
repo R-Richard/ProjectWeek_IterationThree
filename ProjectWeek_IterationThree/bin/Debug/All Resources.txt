@@ -1,0 +1,11 @@
+Resource List:
+
+Beginner's Database Handbook: DVD Companion (DVD)
+C# Player's Guide On DVD (DVD)
+String Comparison Basics: DVD Companion (DVD)
+Lots Of Programming Stuff (Book)
+Even More on C# (Book)
+Big Book of C# (Book)
+Database Periodical (Magazine)
+SQL Monthly (Magazine)
+Big Magazine of Useless Facts (Magazine)

@@ -1,0 +1,19 @@
+Resource Checkout System
+Resource List For User ID: U123, JIMMY JONES
+
+
+Unavailable Resources:
+
+C# Player's Guide On DVD
+
+
+Available Resources:
+
+Database Periodical
+SQL Monthly
+Big Magazine of Useless Facts
+Beginner's Database Handbook: DVD Companion
+String Comparison Basics: DVD Companion
+Lots Of Programming Stuff
+Even More on C#
+Big Book of C#

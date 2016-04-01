@@ -1,0 +1,17 @@
+Magazine File:
+
+
+Title: Database Periodical
+ISBN: 5-234-45678-9
+Length: 50 pages
+Status: AVAILABLE
+
+Title: SQL Monthly
+ISBN: 4-234-12345-6
+Length: 23 pages
+Status: AVAILABLE
+
+Title: Big Magazine of Useless Facts
+ISBN: 8-987-87654-3
+Length: 14 pages
+Status: AVAILABLE
